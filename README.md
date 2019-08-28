@@ -1,6 +1,6 @@
 # Binary Obfuscation/Debofuscation
 
-This repository is dedicated to the series I have been putting together regarding <a href="https://calwa.re/reversing/obfuscation/binary-deobfuscation-preface" target="_blank">binary obfuscation and deobfuscation</a>.
+This repository is dedicated to the series I have been putting together regarding <a href="https://calwa.re/reversing/obfuscation/binary-deobfuscation-preface">binary obfuscation and deobfuscation</a>.
 
 The folders held within this repository directly map to the sections within the series. Heavily commented source code, example programs, and all other related materials can be found within these folders.
 
